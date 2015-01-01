@@ -1,0 +1,7 @@
+c:\users\taukir\documents\visual studio 2010\Projects\VehicleUIApp\VehicleUIApp\bin\Debug\VehicleUIApp.exe
+c:\users\taukir\documents\visual studio 2010\Projects\VehicleUIApp\VehicleUIApp\bin\Debug\VehicleUIApp.pdb
+c:\users\taukir\documents\visual studio 2010\Projects\VehicleUIApp\VehicleUIApp\obj\x86\Debug\VehicleUIApp.Properties.Resources.resources
+c:\users\taukir\documents\visual studio 2010\Projects\VehicleUIApp\VehicleUIApp\obj\x86\Debug\VehicleUIApp.VehicleUI.resources
+c:\users\taukir\documents\visual studio 2010\Projects\VehicleUIApp\VehicleUIApp\obj\x86\Debug\VehicleUIApp.csproj.GenerateResource.Cache
+c:\users\taukir\documents\visual studio 2010\Projects\VehicleUIApp\VehicleUIApp\obj\x86\Debug\VehicleUIApp.exe
+c:\users\taukir\documents\visual studio 2010\Projects\VehicleUIApp\VehicleUIApp\obj\x86\Debug\VehicleUIApp.pdb
